@@ -1,11 +1,14 @@
 [project]
-name = "blank-app-template"
+name = "nmvp-data-viewer"
 version = "0.1.0"
-description = "A simple Streamlit app template."
+description = "NMVP SharePoint discovery analytics (precomputed Streamlit dashboard)."
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.11"
 dependencies = [
-    "streamlit>=1.60.0",
+    "streamlit>=1.28",
+    "pandas>=2.0",
+    "plotly>=5.18",
+    "pyarrow>=14.0",
 ]
 
 [tool.uv]

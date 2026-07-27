@@ -1,0 +1,214 @@
+{
+  "generated_at": "2026-07-21T15:49:30.479935+00:00",
+  "totals": {
+    "all_files": 95579,
+    "all_size_mb": 129359.51,
+    "excel_pdf": 74310,
+    "excel": 21730,
+    "pdf": 52580,
+    "excel_pdf_size_mb": 73143.34
+  },
+  "content_kind_counts": {
+    "model": 1792,
+    "other": 63852,
+    "budget": 2518,
+    "actual_statement": 5205,
+    "board_tables": 943
+  },
+  "extension_top": [
+    [
+      ".pdf",
+      52580
+    ],
+    [
+      ".xlsx",
+      21181
+    ],
+    [
+      ".docx",
+      11979
+    ],
+    [
+      ".msg",
+      2214
+    ],
+    [
+      ".doc",
+      1872
+    ],
+    [
+      ".pptx",
+      1554
+    ],
+    [
+      ".zip",
+      1045
+    ],
+    [
+      ".jpeg",
+      424
+    ],
+    [
+      ".download",
+      414
+    ],
+    [
+      ".jpg",
+      409
+    ],
+    [
+      ".png",
+      406
+    ],
+    [
+      ".xls",
+      226
+    ],
+    [
+      ".xlsm",
+      182
+    ],
+    [
+      ".css",
+      180
+    ],
+    [
+      "(none)",
+      168
+    ],
+    [
+      ".xlsb",
+      141
+    ],
+    [
+      ".html",
+      125
+    ],
+    [
+      ".txt",
+      122
+    ],
+    [
+      ".csv",
+      94
+    ],
+    [
+      ".ppt",
+      36
+    ],
+    [
+      ".mp4",
+      32
+    ],
+    [
+      ".eml",
+      32
+    ],
+    [
+      ".webloc",
+      32
+    ],
+    [
+      ".url",
+      28
+    ],
+    [
+      ".lnk",
+      16
+    ]
+  ],
+  "download_scopes": {
+    "actual_statements_only": {
+      "files": 5205,
+      "size_mb": 2347.43,
+      "eta_minutes_at_3MBps": 13.0,
+      "note": "Closest to S3 financial_downloads (statement-named excel/pdf)"
+    },
+    "financial_like_named": {
+      "files": 10458,
+      "size_mb": 14208.62,
+      "eta_minutes_at_3MBps": 78.9,
+      "note": "statement + budget + model + board_tables (filename heuristics)"
+    },
+    "all_excel_pdf": {
+      "files": 74310,
+      "size_mb": 73143.34,
+      "eta_minutes_at_3MBps": 406.4,
+      "note": "Every excel/pdf on the site \u2014 likely larger than needed for eval"
+    }
+  },
+  "statement_files_by_top_folder": {
+    "Portfolio Companies": 1390,
+    "Final": 573,
+    "PAIRIN": 348,
+    "Orijin (fka APDS)": 335,
+    "Noodle Partners, Inc": 240,
+    "LearnPlatform, Inc - EXIT": 225,
+    "Climb Credit": 222,
+    "CreatorUp": 222,
+    "Credly, Inc - EXIT": 219,
+    "Coding Temple-App Academy": 214,
+    "App Academy": 169,
+    "Pathstream": 167,
+    "Motimatic PBC": 141,
+    "Knack Technologies": 115,
+    "Concentric Educational Solutions": 90,
+    "Whiteboard Advisors - EXIT": 90,
+    "Signal Vine - EXIT": 72,
+    "Galvanize - EXIT": 60,
+    "Mursion - PARTIAL EXIT": 49,
+    "Censia": 44,
+    "Nexford University": 42,
+    "Datapeople - EXIT": 36,
+    "Brains and Motion (fka KidzToPros)": 34,
+    "Datapeople": 33,
+    "Practice XYZ - EXIT to Instructure": 27,
+    "Mantra Health": 20,
+    "Acceleration Academies": 13,
+    "FamilyWell Health": 12,
+    "Portfolio Operations": 2,
+    "Joyful Reading Co": 1
+  },
+  "candidate_files_by_top_folder": {
+    "Portfolio Companies": 2809,
+    "Final": 1226,
+    "PAIRIN": 813,
+    "Orijin (fka APDS)": 527,
+    "Noodle Partners, Inc": 517,
+    "Motimatic PBC": 480,
+    "Climb Credit": 447,
+    "Coding Temple-App Academy": 402,
+    "LearnPlatform, Inc - EXIT": 381,
+    "CreatorUp": 321,
+    "App Academy": 317,
+    "Credly, Inc - EXIT": 309,
+    "Brains and Motion (fka KidzToPros)": 218,
+    "Mursion - PARTIAL EXIT": 202,
+    "Pathstream": 200,
+    "Concentric Educational Solutions": 199,
+    "Galvanize - EXIT": 168,
+    "Knack Technologies": 162,
+    "Signal Vine - EXIT": 159,
+    "Nexford University": 96,
+    "Whiteboard Advisors - EXIT": 93,
+    "Censia": 81,
+    "Mantra Health": 79,
+    "Datapeople - EXIT": 59,
+    "Practice XYZ - EXIT to Instructure": 57,
+    "Datapeople": 56,
+    "FamilyWell Health": 48,
+    "Acceleration Academies": 20,
+    "Joyful Reading Co": 10,
+    "Portfolio Operations": 2
+  },
+  "site": {
+    "displayName": "AINMVP1",
+    "webUrl": "https://newmarketsvp.sharepoint.com/sites/AINMVP1",
+    "id": "newmarketsvp.sharepoint.com,4f7f704c-8475-4169-b4f8-9d6d3c8fe836,bf1e3d01-b17f-47d8-bc48-f15ddbb43e3d"
+  },
+  "exported_at": "2026-07-27T15:48:37.665085+00:00",
+  "source_inventory": "sharepoint_inventory.json",
+  "file_count": 95579,
+  "unit_count": 41072,
+  "precomputed": true
+}
